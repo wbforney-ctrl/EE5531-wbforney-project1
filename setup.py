@@ -14,8 +14,8 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='wbforney',
-    maintainer_email='wbforney@todo.todo',
-    description='TODO: Package description',
+    maintainer_email='wbforney@mtu.edu',
+    description='Beginner client libraries tutorials practice package',
     license='Apache-2.0',
     extras_require={
         'test': [
